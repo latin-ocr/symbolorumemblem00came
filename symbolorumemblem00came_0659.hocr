@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./symbolorumemblem00came_0659.png"; bbox 0 0 2065 2911; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 141 1618 2013">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 141 1618 2013">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 141 1618 2013; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 141 1618 2013; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 172 2171 1216 2328">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 172 2171 1216 2328">
+     <span class='ocr_line' id='line_1_2' title="bbox 172 2171 1216 2254; baseline -0.003 -17"><span class='ocrx_word' id='word_1_2' title='bbox 172 2187 452 2237; x_wconf 60' lang='lat' dir='ltr'><em>,inveterata</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 461 2175 657 2252; x_wconf 68' lang='lat' dir='ltr'><em>majam</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 666 2171 863 2228; x_wconf 72' lang='lat' dir='ltr'><em>tandem</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 872 2173 1077 2229; x_wconf 80' lang='lat' dir='ltr'><em>crimina</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1084 2178 1216 2254; x_wconf 60' lang='lat' dir='ltr'><em>caspe</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 177 2249 1111 2328; baseline -0.008 -15"><span class='ocrx_word' id='word_1_7' title='bbox 177 2265 182 2273; x_wconf 86' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 242 2258 245 2261; x_wconf 77' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 308 2262 464 2314; x_wconf 72' lang='lat' dir='ltr'><em>Exue,</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 457 2252 514 2328; x_wconf 89' lang='lat' dir='ltr'><em>s</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 518 2249 812 2311; x_wconf 78' lang='lat' dir='ltr'><em>redtetlaeta</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 772 2262 993 2325; x_wconf 70' lang='lat' dir='ltr'><em>juventa</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1001 2251 1111 2308; x_wconf 80' lang='lat' dir='ltr'><em>tibi.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 870 2470 1626 2607">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 870 2470 1626 2607">
+     <span class='ocr_line' id='line_1_4' title="bbox 870 2470 1626 2607; baseline -0.009 -29"><span class='ocrx_word' id='word_1_14' title='bbox 870 2511 914 2569; x_wconf 77' lang='grc' dir='ltr'>ε</span> <span class='ocrx_word' id='word_1_15' title='bbox 951 2504 986 2569; x_wconf 67' lang='lat'>2</span> <span class='ocrx_word' id='word_1_16' title='bbox 1335 2470 1337 2477; x_wconf 39' lang='lat'><strong>¹</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1373 2484 1626 2607; x_wconf 52' lang='grc' dir='ltr'><em>ἐπῇ.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

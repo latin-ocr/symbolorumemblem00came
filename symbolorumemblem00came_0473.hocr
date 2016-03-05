@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./symbolorumemblem00came_0473.png"; bbox 0 0 2065 2911; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1544 2033">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1544 2033">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1544 2033; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1544 2033; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 141 2214 1301 2368">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 141 2214 1301 2368">
+     <span class='ocr_line' id='line_1_2' title="bbox 141 2214 1301 2289; baseline -0.003 -17"><span class='ocrx_word' id='word_1_2' title='bbox 141 2217 366 2280; x_wconf 65' lang='lat' dir='ltr'><em>fraudem</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 368 2218 563 2289; x_wconf 82' lang='lat' dir='ltr'><em>fraude,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 576 2215 721 2283; x_wconf 69' lang='lat' dir='ltr'><em>qstum</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 729 2216 988 2287; x_wconf 71' lang='lat' dir='ltr'><em>nonfisllere</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 998 2214 1181 2269; x_wconf 84' lang='lat' dir='ltr'><em>dedecet</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1189 2216 1301 2288; x_wconf 75' lang='lat' dir='ltr'><em>astu,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 261 2288 1220 2368; baseline -0.004 -20"><span class='ocrx_word' id='word_1_8' title='bbox 261 2301 375 2368; x_wconf 84' lang='lat' dir='ltr'><em>Saepe</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 382 2296 553 2349; x_wconf 79' lang='lat' dir='ltr'><em>timore</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 562 2295 709 2347; x_wconf 84' lang='lat' dir='ltr'><em>timor</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 716 2291 949 2349; x_wconf 65' lang='lat' dir='ltr'><em>truditur,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 959 2305 1061 2344; x_wconf 85' lang='lat' dir='ltr'><em>arte</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1068 2288 1220 2345; x_wconf 74' lang='lat' dir='ltr'><em>dolus.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 84 2529 1510 2593">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 84 2529 1510 2593">
+     <span class='ocr_line' id='line_1_4' title="bbox 84 2529 1510 2593; baseline -0.008 3"><span class='ocrx_word' id='word_1_14' title='bbox 84 2546 103 2551; x_wconf 62' lang='lat'><em>⁴</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 883 2533 934 2588; x_wconf 82' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_16' title='bbox 1002 2548 1035 2593; x_wconf 74' lang='lat'><em>3</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1375 2529 1510 2584; x_wconf 59' lang='lat' dir='ltr'><em>an.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
